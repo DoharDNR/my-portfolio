@@ -2,8 +2,19 @@
     "main":{
         "name": "Dohar Siregar",
         "description": "I am a programmer",
-        "image": "Dohar Siregar",
+        "image": "profilepic.jpg",
         "github": "https://github.com/DoharDNR",
-        "project": "https://github.com/DoharDNR?tab=repositories"
+        "project": "https://github.com/DoharDNR?tab=repositories",
+        "bio": "Ini adalah biografi saya",
+        "contactmessage": "Here is where you should write you message",
+        "email": "doharsiregar10@gmail.com",
+        "phone": "822-8123-5972",
+        "address": {
+            "street":"(jl.gerilya)",
+            "city": "(DI Yogyakarta)",
+            "state" : "(Indonesia)",
+            "zip" : "(55281)"
+        },
+        "resumedownload": "https://github.com/DoharDNR"
     }
 }
