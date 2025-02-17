@@ -15,7 +15,24 @@
             "state" : "Indonesia",
             "zip" : "55281"
         },
-        "resumedownload": "https://github.com/DoharDNR"
+        "resumedownload": "https://github.com/DoharDNR",
+        "social":[
+            {
+                "name": "Instagram",
+                "url": "https://instagram.com/gamersindodnr",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "LinkedIn",
+                "url": "https://linkedin.com/dohar",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "GitHub",
+                "url": "https://github.com/DoharDNR",
+                "className": "fa fa-github"
+            }
+        ]
     },
     "resume" : {
         "skillmessage" : "Here you can create a short write-up of your show off to employers",
