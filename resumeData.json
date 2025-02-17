@@ -16,5 +16,59 @@
             "zip" : "55281"
         },
         "resumedownload": "https://github.com/DoharDNR"
+    },
+    "resume" : {
+        "skillmessage" : "Here you can create a short write-up of your show off to employers",
+        "education" : [
+            {
+                "school": "Universitas Amikom Yogyakarta",
+                "degree": "Bachelor degree of Informatics Technology",
+                "graduated" : "September 2022",
+                "description" : "I am joining Gelar Karya Mahasiswa"
+            }, 
+            {
+                "school" : "SMKN 2 Jambi City",
+                "degree" : "Multimedia",
+                "graduated": "2016",
+                "description": ""
+            }
+        ],
+
+        "work":[
+            {
+                "company" : "PT.Sebangku Jaya Abadi",
+                "title" : "Game Programmer",
+                "years" : "October 2020 - Desember 2020",
+                "description" : "Creating a digital games version from boardgame"
+            },
+            {
+                "company" : "Freelancer",
+                "title" : "Programmer",
+                "years" : "January 2023 - present",
+                "description" : "Creating a application web desktop"
+            }
+        ],
+        "skills":[
+            {
+                "name" : "NodeJS",
+                "level" : "20%"
+            },
+            {
+                "name" : "ReactJS",
+                "level" : "25%"
+            },
+            {
+                "name" : "BootStrap",
+                "level" :"25%"
+            },
+            {
+                "name" : "Unity3D",
+                "level" : "50%"
+            },
+            {
+                "name" : "UI/UX",
+                "level" : "10%"
+            }
+        ]
     }
 }
